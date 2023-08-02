@@ -6,5 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title= '10-3-Directives';
   photo: String = "https://clipart-library.com/img1/1220170.jpg";
 }
